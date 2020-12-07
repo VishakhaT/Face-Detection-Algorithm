@@ -1,4 +1,4 @@
-# Implementation of Viola Jones Algorithm for Face Detection
+# Face Detection for security applications
 
 Details about the code:
 
